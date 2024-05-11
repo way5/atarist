@@ -24,7 +24,7 @@ The ATARI Touch Tablet is an art and graphics controller designed for use with a
 <br>
 
 >**A WORD OF APPRECIATION:**\
-Special thanks to **John Cove** who kindly provided the required data.
+Special thanks to [**John Cove**](https://www.facebook.com/groups/ataristsales) who kindly provided the required data. There are more cool stuffs for retroware on his web-page [www.ataristsales.co.uk](https://www.ataristsales.co.uk).
 
 <br>
 
